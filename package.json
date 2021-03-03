@@ -1,0 +1,25 @@
+{
+  "name": "burger-api",
+  "version": "1.0.0",
+  "description": "My burger Api",
+  "main": "index.js",
+  "dependencies": {
+    "json": "^10.0.0",
+    "json-server": "^0.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aralsurmelihera/burger-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aralsurmelihera/burger-api/issues"
+  },
+  "homepage": "https://github.com/aralsurmelihera/burger-api#readme"
+}
